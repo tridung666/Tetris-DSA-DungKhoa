@@ -25,7 +25,7 @@ Click here and enjoy the game --> <a href="https://tetris-game-zeta.vercel.app/"
 | Index | Name                   |     ID      |              Email               | Github account             |
 |:------|:-----------------------|:-----------:|:--------------------------------:|:---------------------------|
 | 1     | Nguyễn Trí Dũng | ITCSIU22242 | tridung1262004@gmail.com | tridung666 |
-| 2     | Nguyễn Huỳnh Đăng Khoa | ITITWE22152 | khangnguyenhoangbao@gmail.com | baokhang65 |        
+| 2     | Nguyễn Huỳnh Đăng Khoa | ITITWE22152 | pin2k4@gmail.com | baokhang65 |        
 
 ### Tasks and Contribution 
 | Index | Role                                                         | Person In Charge | Contribution |
