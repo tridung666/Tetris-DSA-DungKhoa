@@ -119,13 +119,13 @@ Knowledge: HTML, CSS, JavaScript, Data Structures, Algorithms, UI design, Thesis
    Support: Google slides
    ![Screenshot 2024-12-20 234814](https://github.com/user-attachments/assets/17b41493-a13e-4b24-ad18-a23937563caf)
    
-   Direct: [Link](https://docs.google.com/presentation/d/1ZDQ58K7it-cXBDp4V5jee0RWbkUyxyEMX2Vxv2rsv9Q/edit#slide=id.gd11be4290f_2_228)
+   Direct: [Link](https://docs.google.com/presentation/d/1kBUMwoN475jjC11o0FrBzmq3xHI7FYsrLSakkJdh_9k/edit?slide=id.gd11be4290f_2_228#slide=id.gd11be4290f_2_228)
 
 ### Report
    
    Support: Google docs  
    
-   Direct: [Link](https://docs.google.com/document/d/1UL2PQ6NYxNJV0banywiMYdnaBgEdpkfaFf6XX-Cc1yI/edit?usp=sharing)
+   Direct: [Link](https://docs.google.com/document/d/1DkMUWjx9H-fALKkHh-93S3mlTYqHuPEACunWabHiiB0/edit?tab=t.0)
    
 ## Installation <a name="installation"></a> 
 1. Step 1: Access to https://github.com/tridung666/Tetris-DSA-DungKhoa
